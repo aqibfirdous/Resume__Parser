@@ -1,6 +1,7 @@
 # Pin Werkzeug to a 2.x version (werkzeug.urls.url_quote exists here)
 Werkzeug<3.0.0
 Flask~=2.1.2
+hf_xet>=1.0.3
 pypdf2~=3.0.1
 docx2txt~=0.8
 gunicorn~=22.0.0
